@@ -1,4 +1,4 @@
-## 📊Netflix Dashboard
+## 📊Netflix Data Analysis
 ## 🎯 Overview
 This project is an in-depth Power BI dashboard analyzing Netflix's user data to gain insights into content preferences, user engagement, and global reach. The dashboard features interactive visualizations and filters to explore data related to total titles, genres, ratings, and the geographical distribution of content.
 ## The analysis provides valuable insights into:
